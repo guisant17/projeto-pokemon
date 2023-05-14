@@ -1,4 +1,4 @@
-alert("ola");
+alert("ola nynona safada");
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 
 
